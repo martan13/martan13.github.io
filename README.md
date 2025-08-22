@@ -18,7 +18,7 @@ Made as a final project for my DofE Silver Award.
 ---
 
 ## 📸 Demo
-(Add a screenshot here, or a link if you publish it later)
+<img width="1000px" alt="image" src="pictures/uvodni-stranka.png" />
 
 ---
 
