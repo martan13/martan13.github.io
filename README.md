@@ -18,25 +18,27 @@ Created to document my high school journey as a blog-like website
 ---
 
 ## 📸 Demo
-(Add a screenshot or link if available)  
-Example:  
-<img width="800px" alt="screenshot" src="images/screenshot.png" />  
+### Homepage Screenshot
+<img width="800px" alt="screenshot" src="pictures/homepage-screenshot" />  
+### Post Screenshot
+<img width="800px" alt="screenshot" src="pictures/school-preparation-screenshot" />  
 
 ---
 
 ## 🛠️ How to View
 1. Clone this repo or download ZIP  
-2. Open `index.html` in your browser (or run `python app.py`, etc.)  
+2. Open `index.html` in your browser
 
 ---
 
 ## 📈 Future Plans
-- [Feature you’d like to add later]  
-- [Another feature]  
+- style using CSS
+- add forms for submiting suggestions
+- handle data inputs 
 
 ---
 
 ## 📚 What I Learned
-- [Skill or concept you practiced in this project]  
-- [New tool or coding technique you tried]  
+- use of semantic HTML
+- links to other websites
 
