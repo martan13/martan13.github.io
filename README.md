@@ -1,19 +1,19 @@
-# [Project Title]
+# My personal blog
 
-[Short one-line description of what this project is.]  
-(Optional: mention context, e.g. “Created as a Codecademy project” / “Made for DofE Silver Award”)
+Created to document my high school journey as a blog-like website
 
 ---
 
 ## 🚀 Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]  
+- header with navigation
+- post names with summaries
+- links to full posts
 
 ---
 
 ## 💻 Technologies Used
-- [HTML5 / CSS3 / JavaScript / Python / etc.]  
+- HTML5
+- CSS3
 
 ---
 
