@@ -19,9 +19,9 @@ Created to document my high school journey as a blog-like website
 
 ## 📸 Demo
 ### Homepage Screenshot
-<img width="800px" alt="screenshot" src="pictures/homepage-screenshot" />  
+<img width="800px" alt="screenshot" src="pictures/homepage-screenshot.png" />  
 ### Post Screenshot
-<img width="800px" alt="screenshot" src="pictures/school-preparation-screenshot" />  
+<img width="800px" alt="screenshot" src="pictures/school-preparation-screenshot.png" />  
 
 ---
 
